@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andy(Xiang-Yu) Cui <br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"> </h1>
+<h1 align="center">Hi 👋, I'm Andy(Xiang-Yu) Cui <br><br> <img src="https://komarev.com/ghpvc/?username=AndyFCui&style=for-the-badge"> </h1>
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
