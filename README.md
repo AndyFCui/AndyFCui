@@ -78,6 +78,7 @@
 
 <p align="center">
   <a >2017 North Central NA Certificiate of Achievement for ACM International Collegiate Programming Contest </a>
+  ![image](https://github.com/AndyFCui/AndyFCui/assets/10085168/3c07859f-23b1-4294-aab2-62dcb5ac444b)
 </p>
 
 
