@@ -55,9 +55,9 @@
 <h2 align="center">🏅 Extracurricular Activities:</h2>
 
 <p align="center">
-  <a >2012年（第二十一届）中国儿童青少年威盛中国芯计算机表演赛全国总决赛“手机应用开发赛二等奖” <a />
+  <a href="https://github.com/AndyFCui/NOKIA_5233_firmware/tree/main">2012年（第二十一届）中国儿童青少年威盛中国芯计算机表演赛全国总决赛“手机应用开发赛二等奖” <a />
 
-  <a >"Second Prize in the 'Mobile Application Development Competition' at the National Final of the 21st China Children and Youth Weisheng China Core Computer Performance Competition in 2012" <a />
+  <a href="https://github.com/AndyFCui/NOKIA_5233_firmware/tree/main">"Second Prize in the 'Mobile Application Development Competition' at the National Final of the 21st China Children and Youth Weisheng China Core Computer Performance Competition in 2012" <a />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 <p align="center">
   <a href="https://wenku.baidu.com/view/1d825456cf2f0066f5335a8102d276a20129605f.html?_wkts_=1690066983207&bdQuery=%E7%AC%AC%E5%8D%81%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9C%E9%A3%9E%E6%80%9D%E5%8D%A1%E5%B0%94%E2%80%9D%E6%9D%AF%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E7%AB%9E%E8%B5%9B+%E5%B4%94%E7%A5%A5%E5%AE%87">2015年（第十届）全国大学生“飞思卡尔”杯智能汽车竞赛-摄像头组 中国东北赛区优秀奖</a>
   
-  <a >Outstanding Award in the Northeast China Division of the 10th National University _Freescale_ Cup Smart Car Competition - Camera Group in 2015<a />
+  <a >Outstanding Award in the Northeast China Division of the 10th National University 'Freescale Cup' Smart Car Competition - Camera Group in 2015<a />
 </p>
 
 <p align="center">
