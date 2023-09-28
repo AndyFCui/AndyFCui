@@ -8,8 +8,7 @@
   
 <h2 align="center">📓 Todo </h2>  
 
-- [x] Robotic Sensors course TA from Aug to Sep 2023
-- [x] Job Seeking
+- [x] Job Seeking SDE/DS/AI
 - [x] NLP Learning
 - [x] Computer Vision
 - [x] Github Action Auto Update README.md 
