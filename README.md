@@ -84,45 +84,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
-<h2 align="center">🏅 Extracurricular Activities:</h2>
-
-<div align="center">
-
-<h3>2012 儿童青少年威盛中国芯计算机表演赛</h3>
-<a href="https://github.com/AndyFCui/AndyFCui/assets/10085168/71a93491-5e62-482e-ae47-d97ecd197640">
-    <img src="https://github.com/AndyFCui/AndyFCui/assets/10085168/71a93491-5e62-482e-ae47-d97ecd197640" width="300">
-    <p>手机应用开发赛二等奖</p>
-    <p><i>Second Prize in the 'Mobile Application Development Competition'</i></p>
-</a>
-<br/>
-
-<h3>2014 中国大学生计算机设计大赛</h3>
-<a href="https://github.com/AndyFCui/AndyFCui/assets/10085168/4c4cf294-7d4e-414d-916d-407ca59ef604">
-    <img src="https://github.com/AndyFCui/AndyFCui/assets/10085168/4c4cf294-7d4e-414d-916d-407ca59ef604" width="300">
-    <p>哆哆联盟-生活服务平台 - 一等奖</p>
-    <p><i>First Prize for 'Dodo Union - Life Services Platform'</i></p>
-</a>
-<br/>
-
-<h3>2015 全国大学生“飞思卡尔”杯智能汽车竞赛</h3>
-<a href="https://github.com/AndyFCui/AndyFCui/assets/10085168/81a32903-9630-440a-8f46-7456b349724a">
-    <img src="https://github.com/AndyFCui/AndyFCui/assets/10085168/81a32903-9630-440a-8f46-7456b349724a" width="300">
-    <p>摄像头组 - 中国东北赛区优秀奖</p>
-    <p><i>Outstanding Award in Camera Group - Northeast China Division</i></p>
-</a>
-<br/>
-
-<h3>2017 ACM International Collegiate Programming Contest</h3>
-<a href="https://github.com/AndyFCui/AndyFCui/assets/10085168/16d6bc4b-0446-4577-a04d-c453c815b890">
-    <img src="https://github.com/AndyFCui/AndyFCui/assets/10085168/16d6bc4b-0446-4577-a04d-c453c815b890" width="300">
-    <p>North Central NA Certificiate of Achievement</p>
-</a>
-<br/>
-
-</div>
-
-
-
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
   <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=AndyFCui&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
