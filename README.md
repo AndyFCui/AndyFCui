@@ -34,7 +34,7 @@
 </td>
 <td valign="top" width="50%">
 
-<h2 align="left">👨‍💻 Commonly Used Programming Languages:</h2>
+<h2 align="left">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact&theme=tokyonight" alt="Top Langs">
 </p>
