@@ -81,10 +81,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
-<h2 align="center">⭐️ My Github Streak Stats:</h2>
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AndyFCui&theme=dark" />
-</p>
 
 <h2 align="center">⭐️ My Github Stats:</h2>
 <p align="center">
