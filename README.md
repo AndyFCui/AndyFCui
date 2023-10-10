@@ -6,12 +6,29 @@
 
 - 📓 LinkedIn：https://www.linkedin.com/in/andy-cui-b59188145/
   
+<table>
+<tr>
+<td>
+
 <h2 align="center">📓 Todo </h2>  
 
 - [x] Job Seeking SDE/DS/AI
 - [x] NLP Learning
 - [x] Computer Vision
-- [x] Github Action Auto Update README.md 
+- [x] Github Action Auto Update README.md
+
+</td>
+<td>
+
+<h2 align="center">👨‍💻 Commonly Used Programming Languages:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact&theme=tokyonight" alt="Top Langs">
+</p>
+
+</td>
+</tr>
+</table>
+
 
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
@@ -47,10 +64,6 @@
   <img alt="GithubPage" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact&theme=tokyonight)
-
-
-
 
 <h2 align="center">🏅 Extracurricular Activities:</h2>
 
