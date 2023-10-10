@@ -51,7 +51,11 @@
   <img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
   <img alt="Kali Linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  
+  <img alt="Naive Bayes" src="https://img.shields.io/badge/Naive%20Bayes-2C2D72?style=for-the-badge&logo=data:image/svg+xml;base64,[some_base64_encoded_data]&logoColor=white" />
+  <img alt="TF-IDF" src="https://img.shields.io/badge/TF--IDF-2C2D72?style=for-the-badge&logo=data:image/svg+xml;base64,[some_base64_encoded_data]&logoColor=white" />
+  <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-2C2D72?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Web Scraping" src="https://img.shields.io/badge/Web%20Scraping-2C2D72?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+
   
 </p>
 
