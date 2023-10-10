@@ -17,8 +17,8 @@
 
 - 📑 LinkedIn：https://www.linkedin.com/in/andy-cui-b59188145/
 
-🔥 My blog: https://dreamslink.org/
------------------------
+<h2 align="center"> 🔥 My Blog </h2>  
+<p align="center"> https://dreamslink.org/ </p>
   
 <table>
 <tr>
