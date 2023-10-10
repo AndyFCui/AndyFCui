@@ -16,7 +16,7 @@
 - 🎓 Graduate Dec 2023 @Northeastern University Boston
 - 🔍 Actively Seeking for SDE/DS/ML Roles | MSCS-AI
 
-<td valign="top" width="100%">
+<td valign="top" width="80%">
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact" height="180px" /></span>
 <span><img height="180px" src="https://github-readme-stats.vercel.app/api?username=AndyFCui&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></span>
 
