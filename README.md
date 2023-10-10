@@ -8,9 +8,9 @@
   
 <table>
 <tr>
-<td>
+<td valign="top" width="50%">
 
-<h2 align="center">📓 Todo </h2>  
+<h2 align="left">📓 Todo </h2>  
 
 - [x] Job Seeking SDE/DS/AI
 - [x] NLP Learning
@@ -18,9 +18,9 @@
 - [x] Github Action Auto Update README.md
 
 </td>
-<td>
+<td valign="top" width="50%">
 
-<h2 align="center">👨‍💻 Commonly Used Programming Languages:</h2>
+<h2 align="left">👨‍💻 Commonly Used Programming Languages:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact&theme=tokyonight" alt="Top Langs">
 </p>
@@ -28,6 +28,7 @@
 </td>
 </tr>
 </table>
+
 
 
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
