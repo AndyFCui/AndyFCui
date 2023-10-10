@@ -12,6 +12,8 @@
 
 
 - 🌱 I’m currently learning **Natural Language Processing**
+- 🎓 Graduate Dec 2023 @Northeastern University Boston
+- Actively Seeking for SDE/DS/ML Roles | MSCS-AI
 
 <td valign="top" width="50%">
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact" height="137px" /></span>
