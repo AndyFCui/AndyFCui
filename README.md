@@ -1,5 +1,16 @@
-''' <h1 align="center">Hi 👋, I'm Andy(Xiang-Yu) Cui <br><br> <img src="https://komarev.com/ghpvc/?username=AndyFCui&style=for-the-badge"> </h1>
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) </h1>
+<!-- <h1 align="center">Hi 👋, I'm Andy(Xiang-Yu) Cui <br><br> <img src="https://komarev.com/ghpvc/?username=AndyFCui&style=for-the-badge"> </h1> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Andy(Xiang-Yu)+Cui;Welcome+to+my+GitHub+Profile!">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndyFCui&style=for-the-badge">
+</p>
+
+
+
 - 🌱 I’m currently learning **Natural Language Processing**
 
 - 📧 How to reach me **xiangyucui@outlook.com**
