@@ -15,8 +15,6 @@
 
 - 📧 How to reach me **xiangyucui@outlook.com**
 
--  🔥 My Blog：https://dreamslink.org/
-
 
 <td valign="top" width="50%">
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact" height="137px" /></span>
