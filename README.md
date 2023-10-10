@@ -10,7 +10,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<h2 align="left">📓 Todo </h2>  
+<h2 align="left">📝 Todo </h2>  
 
 - [x] Job Seeking SDE/DS/AI
 - [x] NLP Learning
