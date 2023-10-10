@@ -13,7 +13,7 @@
 
 
 - 🌱 I’m currently learning **Natural Language Processing**
-- 🎓 Graduate Dec 2023 @Northeastern University Boston
+- 🎓 Graduate Dec 2023 | Available Early Start Work Jan 2024 
 - 🔍 Actively Seeking for SDE/DS/ML Roles | MSCS-AI
 
 <td valign="top" width="50%">
