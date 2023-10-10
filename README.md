@@ -16,9 +16,8 @@
 - 📧 How to reach me **xiangyucui@outlook.com**
 
 - 📑 LinkedIn：https://www.linkedin.com/in/andy-cui-b59188145/
+-  🔥 My Blog：https://dreamslink.org/
 
-<h2 align="center"> 🔥 My Blog </h2>  
-<p align="center"> https://dreamslink.org/ </p>
   
 <table>
 <tr>
@@ -33,15 +32,14 @@
 
 </td>
 <td valign="top" width="50%">
-
-<h2 align="left">
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact&theme=tokyonight" alt="Top Langs">
 </p>
-
 </td>
 </tr>
 </table>
+
 
 
 
