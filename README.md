@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 📫 How to reach me **xiangyucui@outlook.com**
+- 📧 How to reach me **xiangyucui@outlook.com**
 
-- 📓 LinkedIn：https://www.linkedin.com/in/andy-cui-b59188145/
+- 📑 LinkedIn：https://www.linkedin.com/in/andy-cui-b59188145/
   
 <table>
 <tr>
