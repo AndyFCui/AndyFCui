@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Andy(Xiang-Yu) Cui <br><br> <img src="https://komarev.com/ghpvc/?username=AndyFCui&style=for-the-badge"> </h1> -->
+<!-- Welcome message -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Andy(Xiang-Yu)+Cui;Welcome+to+my+GitHub+Profile!">
@@ -11,7 +11,7 @@
 </p>
 
 
-
+<!-- Current Status -->
 - 🌱 I’m currently learning **Natural Language Processing**
 - 🎓 Graduate Dec 2023 | Available Early Start Work Jan 2024 
 - 🔍 Actively Seeking for SDE/DS/ML Roles | MSCS-AI
@@ -20,11 +20,7 @@
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact" height="164px" /></span>
 <span><img height="164px" src="https://github-readme-stats.vercel.app/api?username=AndyFCui&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></span>
 
-
-
-
-
-
+<!-- Learned Technology -->
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
    <!-- Editors and Development Tools -->
@@ -71,7 +67,7 @@
 </p>
 
 
-
+<!-- Now Code -->
 <h2 align="center">⌨️ Now I Code With</h2>
  <p>
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
