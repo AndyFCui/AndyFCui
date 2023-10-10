@@ -84,11 +84,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
-<h2 align="center">🏆 My Github Trophy:</h2>
-<p align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=AndyFCui&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
-</p>
-
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AndyFCui&theme=dark" />
