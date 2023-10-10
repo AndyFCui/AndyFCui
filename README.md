@@ -15,7 +15,6 @@
 
 - 📧 How to reach me **xiangyucui@outlook.com**
 
-- 📑 LinkedIn：https://www.linkedin.com/in/andy-cui-b59188145/
 -  🔥 My Blog：https://dreamslink.org/
 
   
