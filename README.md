@@ -64,6 +64,9 @@
    <img alt="TF-IDF" src="https://img.shields.io/badge/TF--IDF-2C2D72?style=for-the-badge&logo=data:image/svg+xml;base64,[some_base64_encoded_data]&logoColor=white" />
    <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-CC6E16?style=for-the-badge&logo=tensorflow&logoColor=white" />
    <img alt="Web Scraping" src="https://img.shields.io/badge/Web%20Scraping-2C2D72?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+
+   <!-- Application Design -->
+   
 </p>
 
 
