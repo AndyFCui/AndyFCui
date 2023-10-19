@@ -44,6 +44,10 @@
    <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
+   <!-- Design and Prototyping -->
+   <img alt="draw.io" src="https://img.shields.io/badge/draw.io-2CA5E0?style=for-the-badge&logo=drawdotio&logoColor=white" />
+   <img alt="Axure RP 10" src="https://img.shields.io/badge/Axure%20RP%2010-00C4B6?style=for-the-badge&logo=axurerp&logoColor=white" />
+    
    <!-- Web Servers -->
    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" />
    
