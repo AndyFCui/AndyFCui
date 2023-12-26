@@ -13,7 +13,7 @@
 
 <!-- Current Status -->
 - 🌱 I’m currently learning **Natural Language Processing**
-- 🎓 Graduate Dec 2023 | Available Early Start Work Jan 2024 
+- 🎓 Graduate Dec 2023 | 111Sign IT Manager
 - 🔍 Actively Seeking for SDE/DS/ML Roles | MSCS-AI
 
 <td valign="top" width="50%">
