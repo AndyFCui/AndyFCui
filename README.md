@@ -85,10 +85,11 @@
   <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="GithubPage" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-00C7FF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-8DDF8D?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
+
 
 
 
