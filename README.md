@@ -19,7 +19,7 @@
 <td valign="top" width="50%">
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact" height="164px" /></span>
 <span><img height="164px" src="https://github-readme-stats.vercel.app/api?username=AndyFCui&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></span>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyFCui&theme=xcode&bg_color=00000000" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyFCui&theme=xcode" /> </div>
 
 
 <!-- Learned Technology -->
