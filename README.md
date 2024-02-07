@@ -21,34 +21,6 @@
 <span><img height="164px" src="https://github-readme-stats.vercel.app/api?username=AndyFCui&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></span>
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
-<!-- recent_releases starts -->
-[Your Project 1.0](https://github.com/AndyFCui/your-project/releases/tag/1.0) - Your Release Date
-
-[Another Project 0.2](https://github.com/AndyFCui/another-project/releases/tag/0.2) - Your Release Date
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/AndyFCui/AndyFCui/blob/main/releases.md)
-</td><td valign="top" width="34%">
-
-### On my blog
-<!-- blog starts -->
-[Your Blog Post Title](Your Blog Post URL) - Your Blog Post Date
-
-[Another Blog Post Title](Another Blog Post URL) - Your Blog Post Date
-<!-- blog ends -->
-More on [Your Blog URL]
-</td><td valign="top" width="33%">
-
-### TIL
-<!-- tils starts -->
-[Your TIL Title](https://github.com/AndyFCui/til/blob/main/your-til-topic.md) - Your TIL Date
-
-[Another TIL Title](https://github.com/AndyFCui/til/blob/main/another-til-topic.md) - Your TIL Date
-<!-- tils ends -->
-More on [Your TILs URL]
-</td></tr></table>
-
-
 
 <!-- Learned Technology -->
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
