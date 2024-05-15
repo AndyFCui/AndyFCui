@@ -13,7 +13,7 @@
 
 <!-- Current Status -->
 - 🌱 I’m currently learning **Natural Language Processing**
-- 🎓 Graduate Dec 2023 | 111Sign IT Manager
+- 🎓 Graduate Dec 2023 | CAC AUTO Group Data Analyst
 - 🔍 Actively Seeking for SDE/DS/ML Roles | MSCS-AI
 
 <td valign="top" width="50%">
