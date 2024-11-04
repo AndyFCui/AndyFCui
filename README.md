@@ -12,7 +12,7 @@
 
 
 <!-- Current Status -->
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **AWS**
 - 🎓 NEU-Khoury 23' | CAC AUTO Group Data Analyst
 - 🔍 Actively Seeking for SDE/DS/ML Roles | MSCS-AI
 
