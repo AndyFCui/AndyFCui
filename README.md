@@ -13,7 +13,7 @@
 
 <!-- Current Status -->
 - 🌱 I’m currently working on **AWS**
-- 🎓 NEU-Khoury 23' | CAC AUTO Group Data Analyst
+- 🎓 NEU-Khoury 23' | King 7 Club | Senior Full Stack Software Engineer
 - 🔍 Actively Seeking for SDE/DS/ML Roles | MSCS-AI
 
 <td valign="top" width="50%">
