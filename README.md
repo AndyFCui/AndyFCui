@@ -13,7 +13,8 @@
 
 <!-- Current Status -->
 - 🌱 I’m currently working on **AWS**
-- 🎓 NEU-Khoury 23' | Specific AI Limited | Full Stack Software Engineer of AI platform
+- 🏢 Specific AI Limited | Shenzhen, China
+- 👔 Full Stack Software Engineer of AI platform
 
 <td valign="top" width="50%">
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact" height="164px" /></span>
