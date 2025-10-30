@@ -12,7 +12,7 @@
 
 
 <!-- Current Status -->
-- 🌱 I’m currently working on **AWS**
+- 🌱 I’m currently working on **langGraph / LangChain**
 - 🏢 Specific AI Limited | Shenzhen, China
 - 👔 Full Stack Software Engineer of AI platform
 
