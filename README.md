@@ -1,4 +1,14 @@
-![Pac-Man](https://raw.githubusercontent.com/YourUsername/YourRepo/main/pacman.gif)
+<!-- Welcome message -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Andy(Xiang-Yu)+Cui;Welcome+to+my+GitHub+Profile!">
+  </a>
+</p>
+
+<!-- Pac-Man Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/pacman.gif" alt="Pac-Man" width="200">
+</p>
 
 <!-- View record -->
 <p align="center">
