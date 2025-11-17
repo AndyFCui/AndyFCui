@@ -10,11 +10,6 @@
   <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/pacman.gif" alt="Pac-Man" width="200">
 </p>
 
-<!-- View record -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndyFCui&style=for-the-badge">
-</p>
-
 
 <!-- Current Status -->
 - 🌱 I’m currently working on **langGraph / LangChain**
