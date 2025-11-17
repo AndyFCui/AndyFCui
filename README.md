@@ -7,7 +7,7 @@
 
 <!-- Pac-Man Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/pacman.gif" alt="Pac-Man" width="200">
+  <img src="https://media.giphy.com/media/3o7aD2s2kiq7VvB5m8/giphy.gif" alt="Pac-Man" width="200">
 </p>
 
 <!-- View record -->
