@@ -11,11 +11,6 @@
 - 🏢 Specific AI Limited | Shenzhen, China
 - 👔 Full Stack Software Engineer of AI platform
 
-<td valign="top" width="50%">
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFCui&layout=compact" height="164px" /></span>
-<span><img height="164px" src="https://github-readme-stats.vercel.app/api?username=AndyFCui&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></span>
-<table><tr><td valign="top" width="33%">
-
 
 <!-- Learned Technology -->
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
